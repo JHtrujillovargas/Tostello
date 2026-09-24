@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno y secretos
+.env
+
+# Fotos subidas por el administrador
+backend/uploads/*
+
+# Base de datos local de desarrollo
+*.sqlite
+*.db
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
