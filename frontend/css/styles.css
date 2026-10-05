@@ -1,0 +1,15 @@
+:root {
+    --color-primario: #001172;
+    --color-oscuro: #000514;
+    --color-claro: #f0f3ff;
+
+    --fuente-principal: 'Arial', sans-serif;
+}
+
+body {
+    font-family: var(--fuente-principal);
+    margin: 0;
+    padding: 0;
+    color: var(--color-oscuro);
+    background-color: var(--color-claro);   
+}
